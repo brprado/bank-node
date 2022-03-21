@@ -7,4 +7,7 @@ O sistema funciona por meio do terminal, nele voce irá acessar uma interface in
 - INQUIRER (terminal mais simples)
 - CHALK (estilização do terminal)
 
-### Qualquer sugestão ou correção é muito bem vinda!
+## TODO
+- Transferência bancaria entre contas
+- TODO Exclusao de conta
+- Renomear conta
