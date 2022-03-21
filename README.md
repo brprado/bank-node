@@ -9,5 +9,5 @@ O sistema funciona por meio do terminal, nele voce irá acessar uma interface in
 
 ## TODO
 - Transferência bancaria entre contas
-- TODO Exclusao de conta
+- Exclusao de conta
 - Renomear conta
