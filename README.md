@@ -8,6 +8,6 @@ O sistema funciona por meio do terminal, nele voce irá acessar uma interface in
 - CHALK (estilização do terminal)
 
 ## TODO
-- Transferência bancaria entre contas
-- Exclusao de conta
-- Renomear conta
+- Transferência bancaria entre contas (adicionado)
+- Exclusao de conta (adicionado)
+- Renomear conta (adicionado)
